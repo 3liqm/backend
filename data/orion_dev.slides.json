@@ -1,0 +1,243 @@
+[{
+  "_id": {
+    "$oid": "66f127ebb5cf6136e8bd6a99"
+  },
+  "name": "homepage slideshow first zone",
+  "description": "the homepage slideshow banner first zone as shown on the image is where a banner can be put width 872px height 520px",
+  "slug": "homepage-slideshow-first-zone",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1727079762/e3niszjb88etmalwiat9.png",
+  "status": "published",
+  "slideItem": [
+    {
+      "$oid": "670ab23d5de1912cb659335c"
+    },
+    {
+      "$oid": "670bf6174e86f23b17769340"
+    },
+    {
+      "$oid": "670c01174e86f23b1776946e"
+    }
+  ],
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-23T08:33:47.183Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-13T17:19:19.235Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f1298ab5cf6136e8bd6aa1"
+  },
+  "name": "homepage slideshow second zone",
+  "description": "the homepage slideshow banner second zone is where a small banner can be put width : 872px height: 520px",
+  "slug": "homepage-slideshow-second-zone",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1727080700/r8grwh8ccfjpcvvzub2z.png",
+  "status": "published",
+  "slideItem": [
+    {
+      "$oid": "670c19824e86f23b17769619"
+    }
+  ],
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-23T08:40:42.917Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-13T19:03:30.860Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f16ddfb5cf6136e8bd6aae"
+  },
+  "name": "homepage slideshow third zone",
+  "description": "homepage slideshow third zone is used to show a small advertising width : 160px height: 155px",
+  "slug": "homepage-slideshow-third-zone",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1727098111/dywaxngex59ii1qi6odc.png",
+  "status": "published",
+  "slideItem": [
+    {
+      "$oid": "670c1de84e86f23b177696fc"
+    }
+  ],
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-23T13:32:15.829Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-13T19:22:16.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f173efb5cf6136e8bd6ab3"
+  },
+  "name": "hompage top banner",
+  "description": "homepage top banner is where we can put a long banner with height 80px and width full width",
+  "slug": "hompage-top-banner",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1727099584/we6mvb72ubqpfxqhevwr.png",
+  "status": "published",
+  "slideItem": [
+    {
+      "$oid": "670ecc5b02f7518a8e55ef6b"
+    }
+  ],
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-23T13:58:07.362Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T20:11:07.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f1842ab5cf6136e8bd6ab9"
+  },
+  "name": "homepage featured product banner",
+  "description": "homepage featured product banner put on product section on the homepage width 312 height 716",
+  "slug": "homepage-featured-product-banner",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1727103786/s35qsmojn06njergg8il.png",
+  "status": "published",
+  "slideItem": [],
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-23T15:07:22.967Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-23T15:38:50.607Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f18e3ab5cf6136e8bd6af9"
+  },
+  "name": "homepage cta small first zone",
+  "description": "homepage cta small first zone",
+  "slug": "homepage-cta-small-first-zone",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1727106576/jxk76nosyohw4pcj27im.png",
+  "status": "published",
+  "slideItem": [
+    {
+      "$oid": "6713ae2062601a3c64e012b5"
+    }
+  ],
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-23T15:50:18.332Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T13:03:28.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f18e60b5cf6136e8bd6afc"
+  },
+  "name": "homepage cta small second zone",
+  "description": "homepage cta small second zone",
+  "slug": "homepage-cta-small-second-zone",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1727106644/wakvigdbi0lymr6yvnsv.png",
+  "status": "published",
+  "slideItem": [
+    {
+      "$oid": "6713f49062601a3c64e0161d"
+    }
+  ],
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-23T15:50:56.321Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T18:04:00.161Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f19281b5cf6136e8bd6b00"
+  },
+  "name": "homepage product section first zone",
+  "description": "homepage product section first zone",
+  "slug": "homepage-product-section-first-zone",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1727107675/crnjt1muqg1tghj4z9nu.png",
+  "status": "published",
+  "slideItem": [],
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-23T16:08:33.269Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-23T16:08:33.269Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f19306b5cf6136e8bd6b06"
+  },
+  "name": "homepage product section second zone",
+  "description": "homepage product sect second zone",
+  "slug": "homepage-product-section-second-zone",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1727107833/qxcviwzb6nrb7ocv1nv2.png",
+  "status": "published",
+  "slideItem": [],
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-23T16:10:46.049Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-23T16:10:46.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f1976ab5cf6136e8bd6b0a"
+  },
+  "name": "homepage cta last zone",
+  "description": "homepage call to action last zone",
+  "slug": "homepage-cta-last-zone",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1727108551/ovlcl4bibjjlfjtntunw.png",
+  "status": "published",
+  "slideItem": [],
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-23T16:29:30.944Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T17:19:25.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6713050762601a3c64e001a4"
+  },
+  "name": "homepage product best deals section",
+  "description": "homepage product best deals section",
+  "slug": "homepage-product-best-deals-section",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "slideItem": [
+    {
+      "$oid": "67135a7162601a3c64e00425"
+    }
+  ],
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-10-19T01:01:59.293Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T07:06:25.253Z"
+  },
+  "__v": 0
+}]

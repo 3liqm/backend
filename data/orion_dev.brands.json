@@ -1,0 +1,234 @@
+[{
+  "_id": {
+    "$oid": "66eeab7585dd251af67950de"
+  },
+  "name": "apple",
+  "description": "apple inc. is an american multinational corporation and technology company incorporated and headquartered in cupertino, california, in silicon valley.",
+  "slug": "apple",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1726917482/i6imfuwqlapvdhsxivsf.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T11:18:13.097Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T11:18:13.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eeb13c85dd251af6795130"
+  },
+  "name": "microsoft",
+  "description": "microsoft is a leading global vendor of computer software hardware for computer mobile and gaming systems and cloud services",
+  "slug": "microsoft",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1726918873/ud0chakm5scujethrurc.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T11:42:52.849Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T11:42:52.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eeb18885dd251af6795139"
+  },
+  "name": "google",
+  "description": "google is a leading global vendor of computer software; hardware for computer, mobile and gaming systems; and cloud services.",
+  "slug": "google",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1726919042/dz2o0etzj5xtrgisblpj.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T11:44:08.771Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T11:44:08.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eeb1ce85dd251af6795140"
+  },
+  "name": "samsung",
+  "description": "samsumg is a leading global vendor of computer software; hardware for computer, mobile and gaming systems; and cloud services.",
+  "slug": "samsung",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1726919110/d8k3uiif7lumpfya6eno.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T11:45:18.065Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T11:45:18.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eeb20b85dd251af6795147"
+  },
+  "name": "dell",
+  "description": "dell is a leading global vendor of computer software; hardware for computer, mobile and gaming systems; and cloud services.",
+  "slug": "dell",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1726919173/rhnjerz3unv1bohlccu0.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T11:46:19.428Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T11:46:19.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eeb26c85dd251af679514f"
+  },
+  "name": "hp company",
+  "description": "hp is a leading global vendor of computer software; hardware for computer, mobile and gaming systems; and cloud services.",
+  "slug": "hp-company",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1726919233/ar5hjgjxax5tdvzykkdc.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T11:47:56.554Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T11:47:56.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eeb36585dd251af6795157"
+  },
+  "name": "xiaomi",
+  "description": "xiaomi is a leading global vendor of computer software; hardware for computer, mobile and gaming systems; and cloud services.",
+  "slug": "xiaomi",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1726919499/h0976iemps2ltsaixvqh.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T11:52:05.842Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T11:52:05.842Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eeb3b385dd251af679515d"
+  },
+  "name": "sony",
+  "description": "sony is a leading global vendor of computer software; hardware for computer, mobile and gaming systems; and cloud services.",
+  "slug": "sony",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1726919596/rcvzymc5lpuej8pweu1c.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T11:53:23.897Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T11:53:23.897Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eeb41785dd251af6795164"
+  },
+  "name": "lg company",
+  "description": "lg is a leading global vendor of computer software; hardware for computer, mobile and gaming systems; and cloud services.",
+  "slug": "lg-company",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1726919698/sgsrx3ufk2sre7mxxjgl.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T11:55:03.284Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T11:55:03.284Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eec36385dd251af67951b0"
+  },
+  "name": "one plus",
+  "description": "one plus is a chinese designer and manufacturer of consumer electronics and related software, home appliances, automobiles and household hardware.",
+  "slug": "one-plus",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1726923819/zvbfzoztkzbwgryhqldb.png",
+  "status": "draft",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T13:00:19.553Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T13:03:42.300Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6712ba3d62601a3c64dffa1c"
+  },
+  "name": "infinix",
+  "description": "infinix phones legend",
+  "slug": "infinix",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-10-18T19:42:53.205Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T19:42:53.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6712cc2a62601a3c64dffd25"
+  },
+  "name": "logitech",
+  "description": "logitech company limited",
+  "slug": "logitech",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-10-18T20:59:22.461Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T20:59:22.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6713a9b062601a3c64e0112d"
+  },
+  "name": "aokicase",
+  "description": "aokicase brand for real",
+  "slug": "aokicase",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-10-19T12:44:32.851Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T12:44:32.851Z"
+  },
+  "__v": 0
+}]

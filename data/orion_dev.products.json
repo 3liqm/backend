@@ -1,0 +1,926 @@
+[{
+  "_id": {
+    "$oid": "670af3a56453251dc45da8d6"
+  },
+  "featured": false,
+  "name": "sony ps five playstation with one dual",
+  "slug": "sony-ps-five-playstation-with-one-dual",
+  "description": "playstation 5 digital edition without blu-ray drive. a revolutionary console entirely focused on the player for even more immersive and connected experiences with your ps5 and ps4 games.",
+  "additionnal": "PlayStation 5 Digital Edition without Blu-Ray drive. A revolutionary console entirely focused on the player for even more immersive and connected experiences with your PS5 and PS4 games.",
+  "specification": "PlayStation 5 Digital Edition without Blu-Ray drive. A revolutionary console entirely focused on the player for even more immersive and connected experiences with your PS5 and PS4 games.",
+  "category": {
+    "$oid": "66ec222c50db011806b0597f"
+  },
+  "subCategories": [
+    {
+      "$oid": "670b17249f50a86b38528647"
+    }
+  ],
+  "brand": {
+    "$oid": "66eeb3b385dd251af679515d"
+  },
+  "reviews": [
+    {
+      "$oid": "671e4968d46bb0f221f8353f"
+    }
+  ],
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "productVariants": [
+    {
+      "$oid": "67102c507d7183e6532687e7"
+    },
+    {
+      "$oid": "67102c507d7183e6532687f5"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729112765/mk8dexhbbjibnnenuhlv.jpg",
+      "_id": {
+        "$oid": "67102c4c7d7183e6532687d3"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729112765/fqn6btdgj11w8bndpd1z.jpg",
+      "_id": {
+        "$oid": "67102c4c7d7183e6532687d4"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729112780/hmfds7w8ipaidtnpomfb.jpg",
+      "_id": {
+        "$oid": "67102c4c7d7183e6532687d5"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729112792/ijwwp72zsemf2wjahl9t.jpg",
+      "_id": {
+        "$oid": "67102c4c7d7183e6532687d6"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729113093/x7dyjgpvl4zyqvkclcod.jpg",
+      "_id": {
+        "$oid": "67102c4c7d7183e6532687d8"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729113094/xitsba7kakc1hbi3reln.jpg",
+      "_id": {
+        "$oid": "67102c4c7d7183e6532687d9"
+      }
+    }
+  ],
+  "price": 449.99,
+  "discount": 11,
+  "status": "publish",
+  "weight": 10,
+  "unit": "outstock",
+  "inventory": "instock",
+  "sku": "ZUEZ6ZC",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "createdAt": {
+    "$date": "2024-10-12T22:09:41.378Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-27T14:08:40.865Z"
+  },
+  "__v": 0,
+  "collections": [
+    {
+      "$oid": "670ec59302f7518a8e55eecf"
+    },
+    {
+      "$oid": "670ec3ed02f7518a8e55eec4"
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "66ef133aa50c6fcffe883b6b"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "670b25afb6f1823b13fe72c7"
+  },
+  "featured": false,
+  "name": "beastcom q3 full gamer pc  amd ryzen 7 8x 460ghz 16 threads  16gb ram 1tb ssd",
+  "slug": "beastcom-q3-full-gamer-pc--amd-ryzen-7-8x-460ghz-16-threads--16gb-ram-1tb-ssd",
+  "description": "<h3><strong>why choose the beastcom q3 essential gaming pc?</strong></h3><p>diving into the world of video games with hardware that meets your expectations is crucial. if you are looking for a gaming pc capable of offering you a fluid and immersive experience, then the <strong>beastcom q3 essential gaming pc</strong> is for you. equipped with an <strong>amd ryzen 3</strong> processor and an <strong>nvidia gtx 1650</strong> graphics card, this pc leaves nothing to chance. whether you are a casual gamer or a hardcore gamer, the beastcom q3 promises to transform each gaming session into a real spectacle. in this article, we will explore in detail the reasons why this pc could well become your new ally in the virtual arena.</p>",
+  "additionnal": "<p>BEASTCOM Q3 | Full Gamer PC | AMD Ryzen 7 8X 4.60GHz 16 Threads | 16GB RAM | 1TB SSD | 4K Vega Graphics | 24\" LED Display + Keyboard + Mouse + Mouse Pad | HDMI | WiFi | Windows 11 Pro</p>",
+  "specification": "<ul><li><strong>Brand Name : </strong>BEASTCOM</li><li><strong>Operating System : </strong>Windows 11 Pro</li><li><strong>CPU Model : </strong>Ryzen 7<strong>CPU </strong></li><li><strong>Speed : </strong>4.6 GHz</li><li><strong>Cache Memory Installed Size : </strong>16 GB</li><li><strong>Graphics Description : </strong>Radeon™ Vega Chart</li><li><strong>Graphics Coprocessor : </strong>Radeon Vega</li><li><strong>Memory Storage Capacity : </strong>16 GB</li><li><strong>Specific Uses For Product : </strong>Gaming</li><li><strong> Screen Size : </strong>24 Inches</li></ul>",
+  "category": {
+    "$oid": "6710cc567d7183e653269d89"
+  },
+  "subCategories": [
+    {
+      "$oid": "6710ccb27d7183e653269d90"
+    }
+  ],
+  "brand": {
+    "$oid": "66eeb20b85dd251af6795147"
+  },
+  "reviews": [],
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "productVariants": [
+    {
+      "$oid": "6710df567d7183e65326a168"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729152477/daep9ioljqsvpoyx7kku.jpg",
+      "_id": {
+        "$oid": "6710df517d7183e65326a14b"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729152477/hy4nulgjvx5zyyo7esgn.jpg",
+      "_id": {
+        "$oid": "6710df517d7183e65326a14c"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729152428/uqrbh2xj7vlgxwbmvyjb.jpg",
+      "_id": {
+        "$oid": "6710df517d7183e65326a14d"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729152428/igdjrbmbe934pqczehf0.jpg",
+      "_id": {
+        "$oid": "6710df517d7183e65326a14e"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729152408/i3gerpmvubefobohb7cp.jpg",
+      "_id": {
+        "$oid": "6710df517d7183e65326a14f"
+      }
+    }
+  ],
+  "price": 455,
+  "discount": 0,
+  "status": "publish",
+  "weight": 12,
+  "unit": "",
+  "inventory": "instock",
+  "sku": "RTR5089",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "createdAt": {
+    "$date": "2024-10-13T01:43:11.783Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T23:42:49.086Z"
+  },
+  "__v": 0,
+  "collections": [
+    {
+      "$oid": "670ec59302f7518a8e55eecf"
+    },
+    {
+      "$oid": "670ec3ed02f7518a8e55eec4"
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "66ef133aa50c6fcffe883b6b"
+    }
+  ],
+  "views": 1
+},
+{
+  "_id": {
+    "$oid": "670bf25e4e86f23b1776929d"
+  },
+  "featured": false,
+  "name": "infinix zero 5 603 magnetic flip leather case with card holder",
+  "slug": "infinix-zero-5-603-magnetic-flip-leather-case-with-card-holder",
+  "description": "<p>infinix phones</p>",
+  "additionnal": "<p>Infinix phones</p>",
+  "specification": "<p><strong>Brand Name: </strong>Infinix</p><p><strong>Operating System: </strong>Android</p><p><strong>RAM Memory Installed: </strong>2 GB</p><p><strong>CPU Model: </strong>Snapdragon</p><p><strong>Memory Storage Capacity: </strong>32 GB</p><p><strong>Screen Size: </strong>6.6 Inches</p><p><strong>Resolution: </strong>720 x 1600</p><p><strong>Model Name: </strong>11210802</p><p><strong>Wireless Provider: </strong>Unlocked for All Carriers</p><p><strong>Cellular Technology</strong>: 4G</p>",
+  "category": {
+    "$oid": "6710cc567d7183e653269d89"
+  },
+  "subCategories": [
+    {
+      "$oid": "66ed0feb20482a7f4d51fc7f"
+    }
+  ],
+  "brand": {
+    "$oid": "6712ba3d62601a3c64dffa1c"
+  },
+  "reviews": [],
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "productVariants": [
+    {
+      "$oid": "671541db516db008fce5e486"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729280054/d7vkihmecj91bbguoadh.jpg",
+      "_id": {
+        "$oid": "671541d7516db008fce5e480"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729280058/bwl0ysmapohw7l3noeyf.jpg",
+      "_id": {
+        "$oid": "671541d7516db008fce5e481"
+      }
+    }
+  ],
+  "price": 200,
+  "discount": 0,
+  "status": "publish",
+  "weight": 3,
+  "unit": "",
+  "inventory": "instock",
+  "sku": "EDFDRL",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "createdAt": {
+    "$date": "2024-10-13T16:16:30.632Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-20T17:46:03.399Z"
+  },
+  "__v": 0,
+  "collections": [
+    {
+      "$oid": "670ec61c02f7518a8e55eee5"
+    }
+  ],
+  "tags": []
+},
+{
+  "_id": {
+    "$oid": "670fbe3692dd4b43d2f1b6c2"
+  },
+  "featured": false,
+  "name": "2020 apple macbook pro with apple m1 chip 13 inch 8gb ram 256gb ssd storage gray",
+  "slug": "2020-apple-macbook-pro-with-apple-m1-chip-13-inch-8gb-ram-256gb-ssd-storage-gray",
+  "description": "apple 2022 macbook air avec puce m2 :ecran liquid retina de 13,6 pouces, 8gb de ram, 512 go de stockage ssd gris sideral",
+  "additionnal": "Apple 2022 MacBook Air avec Puce M2 :ecran Liquid Retina de 13,6 Pouces, 8GB de RAM, 512 Go de Stockage SSD Gris sideral",
+  "specification": "Apple 2022 MacBook Air avec Puce M2 :ecran Liquid Retina de 13,6 Pouces, 8GB de RAM, 512 Go de Stockage SSD Gris sideral",
+  "category": {
+    "$oid": "66ebc6fd50db011806b05826"
+  },
+  "subCategories": [
+    {
+      "$oid": "670b17249f50a86b38528647"
+    }
+  ],
+  "collections": [
+    {
+      "$oid": "670ec59302f7518a8e55eecf"
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "66ef13dda50c6fcffe883b7e"
+    },
+    {
+      "$oid": "66ef13e2a50c6fcffe883b80"
+    }
+  ],
+  "brand": {
+    "$oid": "66eeab7585dd251af67950de"
+  },
+  "reviews": [],
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "productVariants": [
+    {
+      "$oid": "67105a857d7183e65326934d"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729124913/lw2qzrsoc0xg93dyouff.png",
+      "_id": {
+        "$oid": "67105a857d7183e653269330"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729124963/xb2cysi9tc90fok39yrr.jpg",
+      "_id": {
+        "$oid": "67105a857d7183e653269331"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729124975/fhqzozurg9lxdc8zoryg.jpg",
+      "_id": {
+        "$oid": "67105a857d7183e653269332"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729124976/anwyyamwrxnfl9i8ufwz.jpg",
+      "_id": {
+        "$oid": "67105a857d7183e653269333"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729124976/loejwcakyshyw9ptcpnu.jpg",
+      "_id": {
+        "$oid": "67105a857d7183e653269334"
+      }
+    }
+  ],
+  "price": 1999.99,
+  "discount": 21,
+  "status": "publish",
+  "weight": 4,
+  "unit": "kilogram",
+  "inventory": "instock",
+  "sku": "A264671",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "createdAt": {
+    "$date": "2024-10-16T13:23:02.899Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T00:29:57.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67122289ecb79c111948d06a"
+  },
+  "featured": false,
+  "name": "apple iphone 15 smartphone A16 bionic chipset 3349 mah battery 512 gb storage",
+  "slug": "apple-iphone-15",
+  "description": "<p>this refurbished product is inspected, tested, and cleaned in accordance with amazon renewed requirements to be fully functional. premium and excellent condition products will show no signs of cosmetic damage visible from 30 centimeters, good condition products will show scratches barely visible from 30 centimeters away, and acceptable condition products will show scratches clearly visible from 30 centimeters away.</p>",
+  "additionnal": "<p>This refurbished product is inspected, tested, and cleaned in accordance with Amazon Renewed requirements to be fully functional. Premium and Excellent condition products will show no signs of cosmetic damage visible from 30 centimeters, Good condition products will show scratches barely visible from 30 centimeters away, and Acceptable condition products will show scratches clearly visible from 30 centimeters away.</p>",
+  "specification": "<ul><li><strong>Brand Name </strong>Apple</li><li><strong>Operating System </strong>iOS</li><li><strong>Memory Storage Capacity </strong>256 GB</li><li><strong>Screen Size </strong>6.1 Inches</li><li><strong>Model Name </strong>iPhone 15</li><li><strong>Wireless Provider </strong>Unlocked for All Carriers</li><li><strong>Connectivity Technology </strong>5G</li><li><strong>Colour </strong>Blue, Yellow, Black</li><li><strong>Wireless Technology </strong>Wi-Fi, LTE</li><li><strong>Connector Type </strong>USB Type C</li></ul>",
+  "category": {
+    "$oid": "6710cc567d7183e653269d89"
+  },
+  "subCategories": [
+    {
+      "$oid": "66ec8330ba0f6a2d82a3c6e7"
+    }
+  ],
+  "collections": [
+    {
+      "$oid": "670ec63102f7518a8e55eeee"
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "66ef1353a50c6fcffe883b6f"
+    }
+  ],
+  "brand": {
+    "$oid": "66eeab7585dd251af67950de"
+  },
+  "reviews": [
+    {
+      "$oid": "6712af7462601a3c64dff7ab"
+    },
+    {
+      "$oid": "6712afad62601a3c64dff7e3"
+    }
+  ],
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "productVariants": [
+    {
+      "$oid": "6712c06d62601a3c64dffbe0"
+    },
+    {
+      "$oid": "6712c06d62601a3c64dffbec"
+    },
+    {
+      "$oid": "6712c06d62601a3c64dffbf8"
+    },
+    {
+      "$oid": "6712c06d62601a3c64dffc04"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729241327/w2ee3c3tx1hbt030k2jy.jpg",
+      "_id": {
+        "$oid": "6712c06962601a3c64dffb9a"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729241327/zkvbygski3rl8z5xi0f4.jpg",
+      "_id": {
+        "$oid": "6712c06962601a3c64dffb9b"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729241327/yiokz1bzxwmfhcjc9mam.jpg",
+      "_id": {
+        "$oid": "6712c06962601a3c64dffb9c"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729241327/yjqjjpf8ikouisdcsb3v.jpg",
+      "_id": {
+        "$oid": "6712c06962601a3c64dffb9d"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729241327/olubswr6afbapxgt6mgq.jpg",
+      "_id": {
+        "$oid": "6712c06962601a3c64dffb9e"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729241327/c8yx1azy5b4lmtiyq6ko.jpg",
+      "_id": {
+        "$oid": "6712c06962601a3c64dffb9f"
+      }
+    }
+  ],
+  "price": 799,
+  "discount": 20,
+  "status": "publish",
+  "weight": 2,
+  "unit": "kilogram",
+  "inventory": "instock",
+  "sku": "RTR5089",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "views": 0,
+  "createdAt": {
+    "$date": "2024-10-18T08:55:37.441Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T20:09:17.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6712be1262601a3c64dffa73"
+  },
+  "featured": false,
+  "name": "xiaomi redmi note 13 pro smartphone 8gb ram 256gb rom 667 fhd black",
+  "slug": "xiaomi-redmi-note-13-pro-smartphone-8gb-ram-256gb-rom-667-fhd-black",
+  "description": "<p>xiaomi redmi note 13 pro smartphone 8gb ram 256gb rom 667 fhd black</p>",
+  "additionnal": "<p>Xiaomi Redmi Note 13 Pro-Smartphone 8GB RAM 256GB ROM, 6.67\" FHD+ Screen, 5000mAh, Black [Global Version]</p>",
+  "specification": "<ul><li><strong>Brand Name: </strong>Xiaomi</li><li><strong>Operating System</strong>: Android 13.0</li><li><strong>Memory Storage Capacity: </strong>256 GB</li><li><strong>Screen Size: </strong>6.67 Inches</li><li><strong>Refresh Rate (Ghz): </strong>120 Hz</li><li><strong>Model Name</strong>: Xiaomi Redmi Note 13 Pro</li><li><strong>Wireless Provider: </strong>Total Wireless</li><li><strong>Cellular Technology</strong>: 4G</li><li><strong>Connectivity Technology: </strong>USB</li><li><strong>Colour: </strong>Black</li></ul>",
+  "category": {
+    "$oid": "66ebc69250db011806b05822"
+  },
+  "subCategories": [
+    {
+      "$oid": "66ec9c3b20482a7f4d51fc5c"
+    }
+  ],
+  "collections": [
+    {
+      "$oid": "670ec65602f7518a8e55eef2"
+    }
+  ],
+  "tags": [],
+  "brand": {
+    "$oid": "66eeb36585dd251af6795157"
+  },
+  "reviews": [],
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "productVariants": [
+    {
+      "$oid": "67163a33516db008fce5eefa"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729281150/q3wcson9eutxko7alk8g.jpg",
+      "_id": {
+        "$oid": "67163a23516db008fce5eeee"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729281160/laehzbvjjc8d7u1zpiew.jpg",
+      "_id": {
+        "$oid": "67163a23516db008fce5eeef"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729281161/hk6is3m5vcnctfda6ipf.jpg",
+      "_id": {
+        "$oid": "67163a23516db008fce5eef0"
+      }
+    }
+  ],
+  "price": 215,
+  "discount": 25,
+  "status": "publish",
+  "weight": 2,
+  "unit": "kilogram",
+  "inventory": "instock",
+  "sku": "FHTR546",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "views": 0,
+  "createdAt": {
+    "$date": "2024-10-18T19:59:14.564Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-21T11:25:40.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6712cb4462601a3c64dffcff"
+  },
+  "featured": false,
+  "name": "logitech g pro 2 lightspeed bluetooth headset detachable microphone graphene",
+  "slug": "logitech-g-pro-2-lightspeed-bluetooth-headset-detachable-microphone-graphene",
+  "description": "<p>logitech g pro x 2 lightspeed bluetooth headset, detachable microphone, graphene speaker 50mm, dts:x headphones 2.0-7.1 surround, bluetooth/usb/3.5mm aux, pc, ps5, ps4, nintendo switch - pink</p>",
+  "additionnal": "<p>Logitech G Pro X 2 Lightspeed Bluetooth Headset, Detachable Microphone, Graphene Speaker 50mm, DTS:X Headphones 2.0-7.1 Surround, Bluetooth/USB/3.5mm Aux, PC, PS5, PS4, Nintendo Switch - Pink</p><p><br></p>",
+  "specification": "<ul><li><strong>Brand Name</strong>: Logitech G</li><li><strong>Colour: </strong>Magenta</li><li><strong>Headphones Ear Placement</strong>: Over Ear</li><li><strong>Headphones Features: </strong>Circumauricular</li><li><strong>Impedance (in Ohms): </strong>38 Ohm</li><li><strong>Noise Control: </strong>Sound Isolation</li><li><strong>Headphones Jack</strong>: 3.5 mm Jack</li><li><strong>Model Name: </strong>Logitech G PRO X 2 LIGHTSPEED Wireless Gaming Headset</li><li><strong>Connectivity Technology: </strong>Wireless, 3.5mm Aux Cord, Wired</li><li><strong>Wireless Communication Technology</strong></li></ul>",
+  "category": {
+    "$oid": "66ec16d150db011806b05928"
+  },
+  "subCategories": [
+    {
+      "$oid": "6712cc0762601a3c64dffd21"
+    }
+  ],
+  "collections": [
+    {
+      "$oid": "670ec3ed02f7518a8e55eec4"
+    }
+  ],
+  "tags": [
+    {
+      "$oid": "66ef133aa50c6fcffe883b6b"
+    }
+  ],
+  "brand": {
+    "$oid": "6712cc2a62601a3c64dffd25"
+  },
+  "reviews": [
+    {
+      "$oid": "6712e39f62601a3c64e00023"
+    }
+  ],
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "productVariants": [
+    {
+      "$oid": "6712dcef62601a3c64dfff50"
+    },
+    {
+      "$oid": "6712dcef62601a3c64dfff57"
+    },
+    {
+      "$oid": "6712dcef62601a3c64dfff5e"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729284495/bi2toa93rct7s5pgaveq.jpg",
+      "_id": {
+        "$oid": "6712dcec62601a3c64dfff34"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729284495/qwkwlje9buazrfqvzffc.jpg",
+      "_id": {
+        "$oid": "6712dcec62601a3c64dfff35"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729284495/j8jpobcmmuwz88mqljhn.jpg",
+      "_id": {
+        "$oid": "6712dcec62601a3c64dfff36"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729284495/anubiouz8zwipr2epkdc.jpg",
+      "_id": {
+        "$oid": "6712dcec62601a3c64dfff37"
+      }
+    }
+  ],
+  "price": 189.99,
+  "discount": 0,
+  "status": "publish",
+  "weight": 3,
+  "unit": "kilogram",
+  "inventory": "instock",
+  "sku": "JSH6383",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "views": 0,
+  "createdAt": {
+    "$date": "2024-10-18T20:55:32.343Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T22:39:27.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67131ab362601a3c64e003bc"
+  },
+  "featured": false,
+  "name": "tecno pova 5 pro 5g dark illusion 8gb ram 256gb storage  68w ultra fast charge",
+  "slug": "tecno-pova-5-pro-5g-dark-illusion-8gb-ram-256gb-storage--68w-ultra-fast-charge",
+  "description": "<p>tecno pova 5 pro 5g dark illusion 8gb ram 256gb storage) | 68w ultra fast charge 1st segment | india's 1st multi-color backlit arc interface | 50mp dual ai camera |</p>",
+  "additionnal": "<p>TECNO Pova 5 Pro 5G (Dark Illusion, 8GB RAM, 256GB Storage) | 68W Ultra Fast Charge 1st Segment | India's 1st Multi-Color Backlit ARC Interface | 50MP Dual AI Camera |</p>",
+  "specification": "<p><br></p><p><strong>Brand Name</strong>: Tecno</p><p><strong>Operating System</strong>: Android 13.0</p><p><strong>RAM Memory Installed: </strong>8 GB</p><p><strong>CPU Model: </strong>Snapdragon</p><p><strong>Memory Storage Capacity: </strong>256 GB</p><p><strong>Screen Size</strong>: 6.78 Inches</p><p><strong>Model Name: </strong>Pova 5 Pro 5G</p><p><strong>Wireless Provider: </strong>Unlocked</p><p><strong>Cellular Technology: </strong>5G</p><p><strong>Connectivity Technology</strong> Bluetooth, Wi-Fi, USB</p>",
+  "category": {
+    "$oid": "6710cc567d7183e653269d89"
+  },
+  "subCategories": [
+    {
+      "$oid": "66ed0ff720482a7f4d51fc82"
+    }
+  ],
+  "collections": [
+    {
+      "$oid": "670ec5be02f7518a8e55eed1"
+    }
+  ],
+  "tags": [],
+  "brand": {
+    "$oid": "66eeb41785dd251af6795164"
+  },
+  "reviews": [],
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "productVariants": [],
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729305058/mvjrxpqc5rzsoykq9xl5.jpg",
+      "_id": {
+        "$oid": "67131ab362601a3c64e003bd"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729305065/mratdxq32ve9xz32swlf.jpg",
+      "_id": {
+        "$oid": "67131ab362601a3c64e003be"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729305066/dcqncszrh82djrjuyfva.jpg",
+      "_id": {
+        "$oid": "67131ab362601a3c64e003bf"
+      }
+    }
+  ],
+  "price": 179,
+  "discount": 0,
+  "status": "draft",
+  "weight": 3,
+  "unit": "kilogram",
+  "inventory": "instock",
+  "sku": "SDSD34",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "views": 0,
+  "createdAt": {
+    "$date": "2024-10-19T02:34:27.439Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T02:34:27.439Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671373c262601a3c64e00952"
+  },
+  "featured": false,
+  "name": "google pixel 9 pro unlocked android smartphone with gemini triple rear camera 24",
+  "slug": "google-pixel-9-pro-unlocked-android-smartphone-with-gemini-triple-rear-camera-24",
+  "description": "<p>google pixel 9 pro - unlocked android smartphone with gemini, triple rear camera, 24 hours battery life and 6.3 inch</p>",
+  "additionnal": "<p>Google Pixel 9 Pro - Unlocked Android Smartphone with Gemini, Triple Rear Camera, 24 Hours Battery Life and 6.3 Inch</p><p><br></p>",
+  "specification": "<p><strong>Brand Name: </strong>Google</p><p><strong>Operating System</strong>: Android 13.0</p><p><strong>Memory Storage Capacity: </strong>128 GB</p><p><strong>Screen Size</strong>: 6.3 Inches</p><p><strong>Model Name</strong>: Pixel 9 Pro</p><p><strong>Wireless Provider: </strong>Unlocked</p><p><strong>Cellular Technology: </strong>5G</p><p><strong>Colour: </strong>rose quartz</p><p><strong>Wireless Technology: </strong>Wi-Fi</p><p><strong>Connector Type: </strong>USB Type C</p>",
+  "category": {
+    "$oid": "66ebc69250db011806b05822"
+  },
+  "subCategories": [
+    {
+      "$oid": "671374c462601a3c64e009b3"
+    }
+  ],
+  "collections": [
+    {
+      "$oid": "670ec65602f7518a8e55eef2"
+    }
+  ],
+  "tags": [],
+  "brand": {
+    "$oid": "66eeb18885dd251af6795139"
+  },
+  "reviews": [],
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "productVariants": [
+    {
+      "$oid": "671385c162601a3c64e00bdc"
+    },
+    {
+      "$oid": "671385c262601a3c64e00be8"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729327757/tsosnho9ss8mjgyaebez.jpg",
+      "_id": {
+        "$oid": "671385be62601a3c64e00bb2"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729327773/fyqacam6bbpqk5ufkbqd.jpg",
+      "_id": {
+        "$oid": "671385be62601a3c64e00bb3"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729327774/qayjpkrpdcffspfglfro.jpg",
+      "_id": {
+        "$oid": "671385be62601a3c64e00bb4"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729327774/zn0tnzd04i5k8ww9kfsg.jpg",
+      "_id": {
+        "$oid": "671385be62601a3c64e00bb5"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729327774/r1rjyuparuelc4y4n2oi.jpg",
+      "_id": {
+        "$oid": "671385be62601a3c64e00bb6"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729327775/vkkcttxhjp8joconu4cf.jpg",
+      "_id": {
+        "$oid": "671385be62601a3c64e00bb7"
+      }
+    }
+  ],
+  "price": 1099,
+  "discount": 29,
+  "status": "publish",
+  "weight": 5,
+  "unit": "kilogram",
+  "inventory": "instock",
+  "sku": "RY657M",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "views": 0,
+  "createdAt": {
+    "$date": "2024-10-19T08:54:26.815Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T10:11:14.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6713899b62601a3c64e00ccd"
+  },
+  "featured": false,
+  "name": "xiaomi redmi buds 3 pro wireless bluetooth earbuds smart wear",
+  "slug": "xiaomi-redmi-buds-3-pro-wireless-bluetooth-earbuds-smart-wear",
+  "description": "<p>xiaomi redmi buds 3 pro wireless bluetooth earbuds smart wear with noise cancellation with microphone</p>",
+  "additionnal": "<p>Xiaomi Redmi Buds 3 Pro Wireless Bluetooth Earbuds Smart Wear with Noise Cancellation with Microphone</p>",
+  "specification": "<ul><li><strong>Brand Name</strong>: Xiaomi</li><li><strong>Colour: </strong>Black</li><li><strong>Headphones Ear Placement: </strong>Over Ear</li><li><strong>Headphones Features: </strong>Circumauricular</li><li><strong>Noise Control: </strong>Active Noise Cancellation</li><li><strong>Frequency Response: </strong>3045</li><li><strong>Sensitivity: </strong>94 dB</li><li><strong>Headphones Jack</strong>: USB</li><li><strong>Model Name: </strong>REDMI BUDS 3 PRO GRAPHITE BLACK</li><li><strong>Connectivity Technology: </strong>Wired</li></ul>",
+  "category": {
+    "$oid": "6710cc567d7183e653269d89"
+  },
+  "subCategories": [
+    {
+      "$oid": "6712cc0762601a3c64dffd21"
+    }
+  ],
+  "collections": [],
+  "tags": [],
+  "brand": {
+    "$oid": "66eeb36585dd251af6795157"
+  },
+  "reviews": [],
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "productVariants": [],
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729333586/kui7t07kmglwgellup25.jpg",
+      "_id": {
+        "$oid": "6713899b62601a3c64e00cce"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729333586/kli1lvgzz0nsmbuxifk0.jpg",
+      "_id": {
+        "$oid": "6713899b62601a3c64e00ccf"
+      }
+    }
+  ],
+  "price": 299,
+  "discount": 0,
+  "status": "publish",
+  "weight": 1,
+  "unit": "kilogram",
+  "inventory": "instock",
+  "sku": "QSDS33D",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "views": 0,
+  "createdAt": {
+    "$date": "2024-10-19T10:27:39.524Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T10:27:39.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6713a92b62601a3c64e010fd"
+  },
+  "featured": false,
+  "name": "desktop stand compatible with apple homepod mini aluminum stand wooden",
+  "slug": "desktop-stand-compatible-with-apple-homepod-mini-aluminum-stand-wooden",
+  "description": "<p>desktop stand compatible with apple homepod mini aluminum stand + wooden stand with built-in cable management, speaker stand (apple homepod mini, silver) h01</p>",
+  "additionnal": "<p>Desktop Stand Compatible with Apple HomePod Mini Aluminum Stand + Wooden Stand with Built-in Cable Management, Speaker Stand (Apple HomePod Mini, Silver) H01</p><p><br></p>",
+  "specification": "<p><strong>Brand Name: </strong>Aokicase</p><p><strong>Material: </strong>Aluminium</p><p><strong>Colour: </strong>Silver (H01)</p>",
+  "category": {
+    "$oid": "6710cc567d7183e653269d89"
+  },
+  "subCategories": [
+    {
+      "$oid": "6713a90c62601a3c64e010f7"
+    }
+  ],
+  "collections": [
+    {
+      "$oid": "670ec61c02f7518a8e55eee5"
+    }
+  ],
+  "tags": [],
+  "brand": {
+    "$oid": "66eeb41785dd251af6795164"
+  },
+  "reviews": [
+    {
+      "$oid": "6713fc2762601a3c64e018c6"
+    }
+  ],
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "productVariants": [
+    {
+      "$oid": "6713a9ba62601a3c64e01142"
+    },
+    {
+      "$oid": "6713a9ba62601a3c64e01148"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729341512/rndkrtzihbsyw5brrmun.jpg",
+      "_id": {
+        "$oid": "6713a9b762601a3c64e01130"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729341512/srzoymxmalmnaqbzjasz.jpg",
+      "_id": {
+        "$oid": "6713a9b762601a3c64e01131"
+      }
+    }
+  ],
+  "price": 30.99,
+  "discount": 0,
+  "status": "publish",
+  "weight": 2,
+  "unit": "kilogram",
+  "inventory": "instock",
+  "sku": "UZIEYZ67",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "views": 0,
+  "createdAt": {
+    "$date": "2024-10-19T12:42:19.283Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T18:36:24.135Z"
+  },
+  "__v": 0
+}]

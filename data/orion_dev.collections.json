@@ -1,0 +1,171 @@
+[{
+  "_id": {
+    "$oid": "670ec3ed02f7518a8e55eec4"
+  },
+  "name": "hot",
+  "description": "a simple description should be overwhrite",
+  "slug": "hot",
+  "color": "#ee5858",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-10-15T19:35:09.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T19:39:58.268Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ec56702f7518a8e55eecd"
+  },
+  "name": "best deals",
+  "description": "a simple description should be overwhrite",
+  "slug": "best-deals",
+  "color": "#2da5f3",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-10-15T19:41:27.719Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T19:41:27.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ec59302f7518a8e55eecf"
+  },
+  "name": "discount",
+  "description": "a simple description should be overwhrite",
+  "slug": "discount",
+  "color": "#efd33d",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-10-15T19:42:11.997Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T19:42:11.997Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ec5be02f7518a8e55eed1"
+  },
+  "name": "sales",
+  "description": "a simple description should be overwhrite",
+  "slug": "sales",
+  "color": "#2db224",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-10-15T19:42:54.955Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T19:42:54.955Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ec5f202f7518a8e55eed3"
+  },
+  "name": "sold out",
+  "description": "a simple description should be overwhrite",
+  "slug": "sold-out",
+  "color": "#929fa5",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-10-15T19:43:46.186Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T19:43:46.186Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ec61c02f7518a8e55eee5"
+  },
+  "name": "flash sale",
+  "description": "a simple description should be overwhrite",
+  "slug": "flash-sale",
+  "color": "#ffe01a",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-10-15T19:44:28.555Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T19:44:28.555Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ec63102f7518a8e55eeee"
+  },
+  "name": "best sellers",
+  "description": "a simple description should be overwhrite",
+  "slug": "best-sellers",
+  "color": "#1120e8",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-10-15T19:44:49.043Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T19:44:49.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ec63e02f7518a8e55eef0"
+  },
+  "name": "top rated",
+  "description": "a simple description should be overwhrite",
+  "slug": "top-rated",
+  "color": "#b70101",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-10-15T19:45:02.720Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T19:45:02.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ec65602f7518a8e55eef2"
+  },
+  "name": "new arrival",
+  "description": "a simple description should be overwhrite",
+  "slug": "new-arrival",
+  "color": "#3278a4",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-10-15T19:45:26.697Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T19:45:26.697Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,291 @@
+[{
+  "_id": {
+    "$oid": "670ab23d5de1912cb659335c"
+  },
+  "name": "our first campaign",
+  "description": "our first campaign to promote our store",
+  "slug": "our-first-campaign",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1728839652/images/uuictitp4eotaw29dumw.png",
+  "status": "approve",
+  "slide": {
+    "$oid": "66f127ebb5cf6136e8bd6a99"
+  },
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-10-12T17:30:37.704Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-27T13:48:37.173Z"
+  },
+  "__v": 0,
+  "title": "",
+  "subtitle": "",
+  "views": 28,
+  "product": {
+    "$oid": "670af3a56453251dc45da8d6"
+  },
+  "btn": "",
+  "textColor": "#ffffff",
+  "approvedAt": {
+    "$date": "2024-10-26T10:46:16.414Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "670bf6174e86f23b17769340"
+  },
+  "name": "cheap pc gaming fps",
+  "description": "cheap pc gaming fps for real",
+  "slug": "cheap-pc-gaming-fps",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1728837120/qrcj4i2y60k7tzeeaamy.png",
+  "status": "archive",
+  "slide": {
+    "$oid": "66f127ebb5cf6136e8bd6a99"
+  },
+  "product": {
+    "$oid": "670bf25e4e86f23b1776929d"
+  },
+  "views": 3,
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "createdAt": {
+    "$date": "2024-10-13T16:32:23.119Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T00:44:35.727Z"
+  },
+  "__v": 0,
+  "approvedAt": {
+    "$date": "2024-10-13T16:42:49.994Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "670c01174e86f23b1776946e"
+  },
+  "name": "third campaign for real",
+  "title": "louder & more clearly",
+  "subtitle": "with the latest technology that produces clearer sound and louder bass.",
+  "textColor": "#ffffff",
+  "btn": "shop now",
+  "description": "third campaign for real",
+  "slug": "third-campaign-for-real",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1728839946/dp1geafvjxpqiiv3intg.png",
+  "status": "publish",
+  "slide": {
+    "$oid": "66f127ebb5cf6136e8bd6a99"
+  },
+  "product": {
+    "$oid": "670b25afb6f1823b13fe72c7"
+  },
+  "views": 1,
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "createdAt": {
+    "$date": "2024-10-13T17:19:19.220Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-30T09:53:19.599Z"
+  },
+  "__v": 0,
+  "approvedAt": {
+    "$date": "2024-10-16T11:13:37.462Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "670c19824e86f23b17769619"
+  },
+  "name": "first campaing for second zone",
+  "description": "first campaing for second zone",
+  "slug": "first-campaing-for-second-zone",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1728847195/fbl75b7n6ti2gysdf4od.png",
+  "status": "approve",
+  "slide": {
+    "$oid": "66f1298ab5cf6136e8bd6aa1"
+  },
+  "product": {
+    "$oid": "671373c262601a3c64e00952"
+  },
+  "views": 0,
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "createdAt": {
+    "$date": "2024-10-13T19:03:30.848Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-13T19:21:00.029Z"
+  },
+  "__v": 0,
+  "approvedAt": {
+    "$date": "2024-10-13T19:20:59.954Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "670c1de84e86f23b177696fc"
+  },
+  "name": "first campaing for thirdzone",
+  "description": "first campaing for thirdzone",
+  "slug": "first-campaing-for-thirdzone",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1728847329/fyxmghjjnqmz9snmimzd.png",
+  "status": "approve",
+  "slide": {
+    "$oid": "66f16ddfb5cf6136e8bd6aae"
+  },
+  "product": {
+    "$oid": "6713899b62601a3c64e00ccd"
+  },
+  "views": 0,
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "createdAt": {
+    "$date": "2024-10-13T19:22:16.803Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-13T19:22:42.081Z"
+  },
+  "__v": 0,
+  "approvedAt": {
+    "$date": "2024-10-13T19:22:42.080Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "670ecc5b02f7518a8e55ef6b"
+  },
+  "name": "campaign banner top",
+  "description": "campaign banner top for team",
+  "slug": "campaign-banner-top",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729078780/images/lzpvtkyfe9uxdtlcflhy.png",
+  "status": "approve",
+  "slide": {
+    "$oid": "66f173efb5cf6136e8bd6ab3"
+  },
+  "product": {
+    "$oid": "670af3a56453251dc45da8d6"
+  },
+  "views": 0,
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "createdAt": {
+    "$date": "2024-10-15T20:11:07.059Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-15T20:12:41.489Z"
+  },
+  "__v": 0,
+  "approvedAt": {
+    "$date": "2024-10-15T20:12:41.487Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67135a7162601a3c64e00425"
+  },
+  "name": "campaign product banner",
+  "description": "campaign product banner",
+  "slug": "campaign-product-banner",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "approve",
+  "slide": {
+    "$oid": "6713050762601a3c64e001a4"
+  },
+  "product": {
+    "$oid": "670af3a56453251dc45da8d6"
+  },
+  "views": 0,
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "createdAt": {
+    "$date": "2024-10-19T07:06:25.234Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T07:13:22.940Z"
+  },
+  "__v": 0,
+  "approvedAt": {
+    "$date": "2024-10-19T07:13:22.939Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6713ae2062601a3c64e012b5"
+  },
+  "name": "homepage homepod campaign ",
+  "title": "new apple homepod mini",
+  "subtitle": "jam-packed with innovation, homepod mini delivers unexpectedly.",
+  "textColor": "#000000",
+  "btn": "shop now",
+  "description": "homepage homepod campaign ",
+  "slug": "homepage-homepod-campaign",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729359083/snfylolfmy280rxwvzud.png",
+  "status": "approve",
+  "slide": {
+    "$oid": "66f18e3ab5cf6136e8bd6af9"
+  },
+  "product": {
+    "$oid": "6713a92b62601a3c64e010fd"
+  },
+  "views": 0,
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-10-19T13:03:28.315Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T18:07:32.720Z"
+  },
+  "__v": 0,
+  "approvedAt": {
+    "$date": "2024-10-19T18:07:32.718Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6713f49062601a3c64e0161d"
+  },
+  "name": "campaign cta second zone",
+  "description": "campaign cta second zone",
+  "slug": "campaign-cta-second-zone",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729361026/jgncvvmfymkgvc9omq5k.png",
+  "status": "approve",
+  "slide": {
+    "$oid": "66f18e60b5cf6136e8bd6afc"
+  },
+  "product": {
+    "$oid": "6712be1262601a3c64dffa73"
+  },
+  "views": 0,
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "createdAt": {
+    "$date": "2024-10-19T18:04:00.150Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T18:08:32.084Z"
+  },
+  "__v": 0,
+  "approvedAt": {
+    "$date": "2024-10-19T18:08:32.083Z"
+  }
+}]

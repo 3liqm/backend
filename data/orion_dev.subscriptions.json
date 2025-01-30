@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "67050638191244932cd3d0f8"
+  },
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "payments": [],
+  "startDate": {
+    "$date": "2024-10-13T00:15:50.412Z"
+  },
+  "status": "active",
+  "type": "pro",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "createdAt": {
+    "$date": "2024-10-08T10:15:20.913Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-13T00:15:50.412Z"
+  },
+  "__v": 0,
+  "endDate": {
+    "$date": "2024-11-12T01:15:50.412Z"
+  }
+}]

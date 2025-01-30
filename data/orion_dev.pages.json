@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "66f070e338fbef8889b7c9c1"
+  },
+  "name": "track order",
+  "description": "track order icon on page",
+  "slug": "track-order",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1727033538/gyvfee43ehyo687jbtjn.svg",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-22T19:32:51.548Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-22T19:38:16.865Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f074670975b63068329bcd"
+  },
+  "name": "compare",
+  "description": "a compare page on online store",
+  "slug": "compare",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1727034443/xmovbd8lzzbatifqt7rt.svg",
+  "status": "draft",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-22T19:47:51.629Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T22:00:16.247Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f074910975b63068329bd0"
+  },
+  "name": "customer support",
+  "description": "a customer support page on online store",
+  "slug": "customer-support",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1727034501/u5ejwzhxlcj7etimttqx.svg",
+  "status": "draft",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-22T19:48:33.319Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T22:00:40.853Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f074f20975b63068329bd3"
+  },
+  "name": "need help",
+  "description": "a need help support page on online store",
+  "slug": "need-help",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1727034607/c1h727gneu6bxonxvnnw.svg",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-22T19:50:10.742Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T22:00:31.243Z"
+  },
+  "__v": 0
+}]

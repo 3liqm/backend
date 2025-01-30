@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "66f47140f3b8ec0685a23489"
+  },
+  "name": "stripe ",
+  "description": "stripe's payments platform lets you buy with credit cards, debit cards, and popular payment methods around the world",
+  "slug": "stripe",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1727295789/uejymdferequpspil86j.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-25T20:23:28.847Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-23T11:08:03.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f471b9f3b8ec0685a2348b"
+  },
+  "name": "cash on delivery",
+  "description": "cash on delivery is a type of transaction in which payment for a good is made at the time of delivery.",
+  "slug": "cash-on-delivery",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1727295895/z7wxvof0ykdzjnpnoetg.png",
+  "status": "draft",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-25T20:25:29.199Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-27T14:20:46.810Z"
+  },
+  "__v": 0
+}]

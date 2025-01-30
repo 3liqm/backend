@@ -1,0 +1,320 @@
+[{
+  "_id": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "name": "amazone stores",
+  "description": "amazone stores for you",
+  "logo": "https://cdn-icons-png.flaticon.com/128/126/126122.png",
+  "products": [],
+  "status": "pending",
+  "createdAt": {
+    "$date": "2024-09-25T08:40:32.852Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-27T16:35:27.373Z"
+  },
+  "__v": 0,
+  "orderitems": [
+    {
+      "$oid": "671938d4739553128027492b"
+    },
+    {
+      "$oid": "671938d47395531280274930"
+    },
+    {
+      "$oid": "67193f985fce891c4f750e38"
+    },
+    {
+      "$oid": "67193f985fce891c4f750e40"
+    },
+    {
+      "$oid": "671951cab5ef99de84df9c4c"
+    },
+    {
+      "$oid": "671951cab5ef99de84df9c53"
+    },
+    {
+      "$oid": "67195240b5ef99de84df9c6c"
+    },
+    {
+      "$oid": "67195240b5ef99de84df9c73"
+    },
+    {
+      "$oid": "6719537eb5ef99de84df9cea"
+    },
+    {
+      "$oid": "6719537eb5ef99de84df9cf1"
+    },
+    {
+      "$oid": "671953c8b5ef99de84df9d05"
+    },
+    {
+      "$oid": "671953c8b5ef99de84df9d0c"
+    },
+    {
+      "$oid": "671953fcb5ef99de84df9d25"
+    },
+    {
+      "$oid": "671953fcb5ef99de84df9d2c"
+    },
+    {
+      "$oid": "671970aab5ef99de84df9dad"
+    },
+    {
+      "$oid": "671970abb5ef99de84df9db4"
+    },
+    {
+      "$oid": "6719711db5ef99de84df9dd2"
+    },
+    {
+      "$oid": "6719711db5ef99de84df9dd9"
+    },
+    {
+      "$oid": "67197434b5ef99de84df9e2a"
+    },
+    {
+      "$oid": "67197434b5ef99de84df9e31"
+    },
+    {
+      "$oid": "671974aab5ef99de84df9e62"
+    },
+    {
+      "$oid": "671974aab5ef99de84df9e69"
+    },
+    {
+      "$oid": "671975dcb5ef99de84df9ee4"
+    },
+    {
+      "$oid": "671975dcb5ef99de84df9eeb"
+    },
+    {
+      "$oid": "671978deb5ef99de84df9f25"
+    },
+    {
+      "$oid": "671978deb5ef99de84df9f2c"
+    },
+    {
+      "$oid": "67197960b5ef99de84df9f64"
+    },
+    {
+      "$oid": "67197960b5ef99de84df9f6b"
+    },
+    {
+      "$oid": "67198156b5ef99de84dfa106"
+    },
+    {
+      "$oid": "67198156b5ef99de84dfa10d"
+    },
+    {
+      "$oid": "6719da08b5ef99de84dfa19e"
+    },
+    {
+      "$oid": "6719da09b5ef99de84dfa1a5"
+    },
+    {
+      "$oid": "6719daecb5ef99de84dfa212"
+    },
+    {
+      "$oid": "6719daedb5ef99de84dfa219"
+    },
+    {
+      "$oid": "6719df51b5ef99de84dfa270"
+    },
+    {
+      "$oid": "6719df51b5ef99de84dfa277"
+    },
+    {
+      "$oid": "6719df8ab5ef99de84dfa2b8"
+    },
+    {
+      "$oid": "6719df8ab5ef99de84dfa2bf"
+    },
+    {
+      "$oid": "6719e001b5ef99de84dfa305"
+    },
+    {
+      "$oid": "6719e002b5ef99de84dfa30c"
+    },
+    {
+      "$oid": "6719e18eb5ef99de84dfa34d"
+    },
+    {
+      "$oid": "6719e18fb5ef99de84dfa354"
+    },
+    {
+      "$oid": "6719e55eb5ef99de84dfa398"
+    },
+    {
+      "$oid": "6719e55eb5ef99de84dfa39f"
+    },
+    {
+      "$oid": "6719e5c0b5ef99de84dfa3b3"
+    },
+    {
+      "$oid": "6719e5c0b5ef99de84dfa3ba"
+    },
+    {
+      "$oid": "6719e5ceb5ef99de84dfa3ce"
+    },
+    {
+      "$oid": "6719e5ceb5ef99de84dfa3d5"
+    },
+    {
+      "$oid": "6719e62db5ef99de84dfa3f8"
+    },
+    {
+      "$oid": "6719e62db5ef99de84dfa3ff"
+    },
+    {
+      "$oid": "6719ee64b5ef99de84dfa4f6"
+    },
+    {
+      "$oid": "6719ee65b5ef99de84dfa4fd"
+    },
+    {
+      "$oid": "6719ee8db5ef99de84dfa51f"
+    },
+    {
+      "$oid": "6719ee8db5ef99de84dfa526"
+    },
+    {
+      "$oid": "6719ef3bb64fb06bddd8648e"
+    },
+    {
+      "$oid": "6719ef3bb64fb06bddd86495"
+    },
+    {
+      "$oid": "6719ef74b64fb06bddd864c9"
+    },
+    {
+      "$oid": "6719ef74b64fb06bddd864d0"
+    },
+    {
+      "$oid": "6719efccb64fb06bddd864e4"
+    },
+    {
+      "$oid": "6719efccb64fb06bddd864eb"
+    },
+    {
+      "$oid": "6719f039b64fb06bddd864ff"
+    },
+    {
+      "$oid": "6719f039b64fb06bddd86506"
+    },
+    {
+      "$oid": "6719f2a1b64fb06bddd86518"
+    },
+    {
+      "$oid": "6719f2a1b64fb06bddd8651f"
+    },
+    {
+      "$oid": "6719f2feb64fb06bddd86533"
+    },
+    {
+      "$oid": "6719f2feb64fb06bddd8653a"
+    },
+    {
+      "$oid": "6719f360b64fb06bddd8658f"
+    },
+    {
+      "$oid": "6719f360b64fb06bddd86596"
+    },
+    {
+      "$oid": "6719f60fb64fb06bddd865d0"
+    },
+    {
+      "$oid": "6719f60fb64fb06bddd865d7"
+    },
+    {
+      "$oid": "6719f7e2b64fb06bddd8660d"
+    },
+    {
+      "$oid": "6719f7e2b64fb06bddd86614"
+    },
+    {
+      "$oid": "6719f82bb64fb06bddd8662c"
+    },
+    {
+      "$oid": "6719f82bb64fb06bddd86638"
+    },
+    {
+      "$oid": "6719f864b64fb06bddd86671"
+    },
+    {
+      "$oid": "6719f864b64fb06bddd86678"
+    },
+    {
+      "$oid": "6719f8ceb64fb06bddd86690"
+    },
+    {
+      "$oid": "6719f8ceb64fb06bddd8669c"
+    },
+    {
+      "$oid": "6719fb7db64fb06bddd866b9"
+    },
+    {
+      "$oid": "6719fb7db64fb06bddd866c0"
+    },
+    {
+      "$oid": "6719fe1cb64fb06bddd866ee"
+    },
+    {
+      "$oid": "6719fe1cb64fb06bddd866f5"
+    },
+    {
+      "$oid": "6719febab64fb06bddd86733"
+    },
+    {
+      "$oid": "6719febbb64fb06bddd8673a"
+    },
+    {
+      "$oid": "671a0878b64fb06bddd8677b"
+    },
+    {
+      "$oid": "671a0879b64fb06bddd86782"
+    },
+    {
+      "$oid": "671a0f39b64fb06bddd867e0"
+    },
+    {
+      "$oid": "671a0f39b64fb06bddd867e7"
+    },
+    {
+      "$oid": "671e6ad2d46bb0f221f83bd9"
+    },
+    {
+      "$oid": "671e6ad4d46bb0f221f83be0"
+    },
+    {
+      "$oid": "671e6bcfd46bb0f221f83c4f"
+    },
+    {
+      "$oid": "671e6bcfd46bb0f221f83c56"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "671cc481cebfe6bf30f7b047"
+  },
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "name": "alibaba",
+  "description": "alibaba store for sell",
+  "logo": "https://cdn-icons-png.flaticon.com/128/126/126122.png",
+  "products": [],
+  "orderitems": [],
+  "status": "pending",
+  "createdAt": {
+    "$date": "2024-10-26T10:29:21.131Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-26T10:29:21.255Z"
+  },
+  "__v": 0,
+  "subscription": [
+    {
+      "$oid": "671cc481cebfe6bf30f7b049"
+    }
+  ]
+}]

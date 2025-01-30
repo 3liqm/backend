@@ -1,0 +1,264 @@
+[{
+  "_id": {
+    "$oid": "66ebc69250db011806b05822"
+  },
+  "name": "smartphones",
+  "description": "a mobile phone that performs many of the functions of a computer, typically having a touchscreen interface, internet access, and an operating system capable of running downloaded apps.",
+  "slug": "smartphones",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1726746860/wv6orfvbtjvcqhuhdudf.jpg",
+  "status": "publish",
+  "subCategory": [
+    {
+      "$oid": "66ed0ff720482a7f4d51fc82"
+    },
+    {
+      "$oid": "66ed0f3a20482a7f4d51fc6c"
+    },
+    {
+      "$oid": "66ed0fb720482a7f4d51fc74"
+    },
+    {
+      "$oid": "66ed0fd120482a7f4d51fc78"
+    },
+    {
+      "$oid": "66ed0fdd20482a7f4d51fc7b"
+    },
+    {
+      "$oid": "66ed0feb20482a7f4d51fc7f"
+    },
+    {
+      "$oid": "66ec9c3b20482a7f4d51fc5c"
+    },
+    {
+      "$oid": "66ec9a3120482a7f4d51fc51"
+    },
+    {
+      "$oid": "66ec955320482a7f4d51fc10"
+    },
+    {
+      "$oid": "66ec8330ba0f6a2d82a3c6e7"
+    },
+    {
+      "$oid": "671374c462601a3c64e009b3"
+    }
+  ],
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-19T06:37:06.205Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T19:15:55.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ebc6fd50db011806b05826"
+  },
+  "name": "computer laptops",
+  "description": "electronics can be defined as a branch of physics and engineering that deals with the study of electron behavior, flow, and control under different conditions.",
+  "slug": "computer-laptops",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1726746641/ioqqfi7xqiree9wphmrt.jpg",
+  "status": "publish",
+  "subCategory": [],
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-19T06:38:53.331Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-19T11:53:37.689Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ebc81f50db011806b05834"
+  },
+  "name": "accesories",
+  "description": "electronics can be defined as a branch of physics and engineering that deals with the study of electron behavior, flow, and control under different conditions.",
+  "slug": "accesories",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1726746739/z7adou7vfg199paxohvl.jpg",
+  "status": "published",
+  "subCategory": [],
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-19T06:43:43.988Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-19T11:53:05.055Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ec155f50db011806b05903"
+  },
+  "name": "tv home appliances",
+  "description": "television (tv) is a telecommunication medium for transmitting moving images and sound.",
+  "slug": "tv-home-appliances",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1726748288/m4qdhk75dbxh5xc3s0in.jpg",
+  "status": "publish",
+  "subCategory": [],
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-19T12:13:19.429Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-19T12:18:24.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ec16d150db011806b05928"
+  },
+  "name": "headphones",
+  "description": "headphones are a pair of small loudspeaker drivers worn on or around the head over a user's ears",
+  "slug": "headphones",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1726748336/i5sw5cvcnc3nu7e9kmc4.jpg",
+  "status": "publish",
+  "subCategory": [
+    {
+      "$oid": "6712cc0762601a3c64dffd21"
+    }
+  ],
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-19T12:19:29.627Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T20:58:47.180Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ec1a3050db011806b0593e"
+  },
+  "name": "mobile accesories",
+  "description": "this includes protective phone cases, screen protectors, headphones, power banks, wired and wireless chargers, memory card readers, selfie sticks, bluetooth",
+  "slug": "mobile-accesories",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1726750026/n6imnczuhft15t3dut7l.png",
+  "status": "publish",
+  "subCategory": [],
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-19T12:33:52.468Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-19T13:05:22.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ec222c50db011806b0597f"
+  },
+  "name": "gaming consoles",
+  "description": "a video game console is an electronic device that outputs a video signal or image to display a video game that can be played with a game controller.",
+  "slug": "gaming-consoles",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1726751269/nadawdou8bkrqpdtabml.png",
+  "status": "publish",
+  "subCategory": [
+    {
+      "$oid": "670b17249f50a86b38528647"
+    },
+    {
+      "$oid": "6710ccdb7d7183e653269d93"
+    }
+  ],
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-19T13:07:56.481Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T08:37:47.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ec242550db011806b05990"
+  },
+  "name": "watchs and accesories",
+  "description": "a watch is a portable timepiece intended to be carried or worn by a person. it is designed to keep a consistent movement despite the motions...",
+  "slug": "watchs-and-accesories",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1726751773/ihrbtucv629lrgv9nmwe.png",
+  "status": "publish",
+  "subCategory": [],
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-19T13:16:21.662Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-19T14:03:44.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ec318350db011806b05a09"
+  },
+  "name": "gps and navigation",
+  "description": "the global positioning system (gps) is a satellite constellation supporting highly accurate positioning, navigation and timing (pnt) measurements worldwide.",
+  "slug": "gps-and-navigation",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1726755194/hiukifny8ovjpuss7bh6.png",
+  "status": "published",
+  "subCategory": [],
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-19T14:13:23.481Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-19T14:13:23.481Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ec345b50db011806b05a29"
+  },
+  "name": "wearable technology",
+  "description": "wearable technology is any kind of electronic device designed to be worn on the user's body. such devices can take many different forms, including jewelry,connected watches ...",
+  "slug": "wearable-technology",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1726755891/ukdipmi7fsewvripfkca.png",
+  "status": "publish",
+  "subCategory": [],
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-19T14:25:31.375Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-19T14:25:31.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6710cc567d7183e653269d89"
+  },
+  "name": "electronics devices",
+  "description": "electronics devices like computer , pc",
+  "slug": "electronics-devices",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729154112/c0aem1s6hspjrg7iewmt.png",
+  "status": "publish",
+  "subCategory": [
+    {
+      "$oid": "6710ccb27d7183e653269d90"
+    },
+    {
+      "$oid": "6712b3eb62601a3c64dff931"
+    },
+    {
+      "$oid": "6713a90c62601a3c64e010f7"
+    }
+  ],
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-10-17T08:35:34.083Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T12:41:48.971Z"
+  },
+  "__v": 0
+}]

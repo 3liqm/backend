@@ -1,0 +1,252 @@
+[{
+  "_id": {
+    "$oid": "66ef133aa50c6fcffe883b6b"
+  },
+  "name": "game",
+  "description": "a sample tag to create",
+  "slug": "game",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T18:40:58.841Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T18:40:58.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef1353a50c6fcffe883b6f"
+  },
+  "name": "iphone",
+  "description": "a sample tag to create",
+  "slug": "iphone",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T18:41:23.097Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T18:41:23.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef13b8a50c6fcffe883b76"
+  },
+  "name": "tv",
+  "description": "a sample tag to create",
+  "slug": "tv",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T18:43:04.597Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T18:43:04.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef13d0a50c6fcffe883b7b"
+  },
+  "name": "asus laptops",
+  "description": "a sample tag to create",
+  "slug": "asus-laptops",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T18:43:28.128Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T18:43:28.128Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef13dda50c6fcffe883b7e"
+  },
+  "name": "mackbook",
+  "description": "a sample tag to create",
+  "slug": "mackbook",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T18:43:41.849Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T18:43:41.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef13e2a50c6fcffe883b80"
+  },
+  "name": "ssd",
+  "description": "a sample tag to create",
+  "slug": "ssd",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T18:43:46.379Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T18:43:46.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef13eea50c6fcffe883b83"
+  },
+  "name": "graphics card",
+  "description": "a sample tag to create",
+  "slug": "graphics-card",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T18:43:58.192Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T18:43:58.192Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef13f7a50c6fcffe883b86"
+  },
+  "name": "power bank",
+  "description": "a sample tag to create",
+  "slug": "power-bank",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T18:44:07.090Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T18:44:07.090Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef1401a50c6fcffe883b89"
+  },
+  "name": "smart tv",
+  "description": "a sample tag to create",
+  "slug": "smart-tv",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T18:44:17.276Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T18:44:17.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef140aa50c6fcffe883b8c"
+  },
+  "name": "speaker",
+  "description": "a sample tag to create",
+  "slug": "speaker",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T18:44:26.433Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T18:44:26.433Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef1413a50c6fcffe883b8f"
+  },
+  "name": "tablet",
+  "description": "a sample tag to create",
+  "slug": "tablet",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T18:44:35.620Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T18:44:35.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef141ca50c6fcffe883b92"
+  },
+  "name": "microwave",
+  "description": "a sample tag to create",
+  "slug": "microwave",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "published",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T18:44:44.757Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T18:44:44.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef1422a50c6fcffe883b94"
+  },
+  "name": "samsung",
+  "description": "a sample tag to create",
+  "slug": "samsung",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T18:44:50.904Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T18:50:38.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef1afe86d7b78a0482966b"
+  },
+  "name": "android",
+  "description": "a sample tag to create",
+  "slug": "android",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "archived",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "createdAt": {
+    "$date": "2024-09-21T19:14:06.399Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-21T19:17:06.372Z"
+  },
+  "__v": 0
+}]

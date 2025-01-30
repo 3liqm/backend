@@ -1,0 +1,228 @@
+[{
+  "_id": {
+    "$oid": "66f688a42808aca45e631663"
+  },
+  "name": "fast shippings canada",
+  "description": "a quick delivery to your address",
+  "slug": "fast-shipping-canada",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1727432850/q7bsed66uis6tai50u14.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "region": [
+    "canada"
+  ],
+  "delay": 1,
+  "fixed_amount": 100,
+  "fees": 0,
+  "unit_price_weight": 0,
+  "price_range_start": 0,
+  "price_range_end": 0,
+  "createdAt": {
+    "$date": "2024-09-27T10:27:48.368Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-27T10:27:48.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f68ba92808aca45e631668"
+  },
+  "name": "international europe shipping ",
+  "description": "deliver your product any where in europe from us",
+  "slug": "international-europe-shipping",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1727433568/sisnyjadjttbn2gw2ua5.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "region": [
+    "all"
+  ],
+  "delay": 7,
+  "fixed_amount": 300,
+  "fees": 150,
+  "unit_price_weight": 0,
+  "price_range_start": 0,
+  "price_range_end": 0,
+  "createdAt": {
+    "$date": "2024-09-27T10:40:41.831Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-27T10:40:41.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f68d7a2808aca45e63166d"
+  },
+  "name": "international america shipping",
+  "description": "deliver your product in america ",
+  "slug": "international-america-shipping",
+  "image": "https://res.cloudinary.com/didbxg1f9/image/upload/v1727434042/oo3znxs7is4abvhz6grj.png",
+  "status": "publish",
+  "user_id": "user_2luzaG3QZ2eLFpYPQ91iwHh433C",
+  "region": [
+    "all"
+  ],
+  "delay": 3,
+  "fixed_amount": 150,
+  "fees": 0,
+  "unit_price_weight": 0,
+  "price_range_start": 0,
+  "price_range_end": 0,
+  "createdAt": {
+    "$date": "2024-09-27T10:48:26.047Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-27T10:48:26.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6716e1c9cb3584b635fadafd"
+  },
+  "name": "free shipping internationale",
+  "description": "free shipping internationale",
+  "slug": "free-shipping-internationale",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "draft",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "region": [
+    "all"
+  ],
+  "delay": 0,
+  "fixed_amount": 0,
+  "fees": 0,
+  "unit_price_weight": 0,
+  "price_range_start": 0,
+  "price_range_end": 0,
+  "createdAt": {
+    "$date": "2024-10-21T23:20:41.183Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-21T23:20:41.183Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6716e2521f66a23e6ec072c1"
+  },
+  "name": "dhl international",
+  "description": "free shipping international europe",
+  "slug": "dhl-international",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "region": [
+    "all"
+  ],
+  "delay": 7,
+  "fixed_amount": 300,
+  "fees": 0,
+  "unit_price_weight": 0,
+  "price_range_start": 0,
+  "price_range_end": 0,
+  "createdAt": {
+    "$date": "2024-10-21T23:22:58.936Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-23T01:13:29.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671754151f66a23e6ec0732e"
+  },
+  "name": "ups international ",
+  "description": "dhl international europe",
+  "slug": "ups-international",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "region": [
+    "all"
+  ],
+  "delay": 5,
+  "fixed_amount": 200,
+  "fees": 0,
+  "unit_price_weight": 0,
+  "price_range_start": 0,
+  "price_range_end": 0,
+  "createdAt": {
+    "$date": "2024-10-22T07:28:21.780Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-23T01:12:22.794Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6717545e1f66a23e6ec07331"
+  },
+  "name": "free shipping canada",
+  "description": "free shipping everywhere in canada",
+  "slug": "free-shipping-canada",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "region": [
+    "canada"
+  ],
+  "delay": 3,
+  "fixed_amount": 0,
+  "fees": 0,
+  "unit_price_weight": 0,
+  "price_range_start": 0,
+  "price_range_end": 0,
+  "createdAt": {
+    "$date": "2024-10-22T07:29:34.086Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-23T06:44:46.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67184ded92ee38f28faa9c0a"
+  },
+  "name": "free shipping international",
+  "description": "free shipping international",
+  "slug": "free-shipping-international",
+  "image": "https://cdn-icons-png.flaticon.com/128/10446/10446694.png",
+  "status": "publish",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "region": [
+    "all"
+  ],
+  "delay": 24,
+  "fixed_amount": 0,
+  "fees": 0,
+  "unit_price_weight": 0,
+  "price_range_start": 0,
+  "price_range_end": 0,
+  "createdAt": {
+    "$date": "2024-10-23T01:14:21.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-23T01:14:21.488Z"
+  },
+  "__v": 0
+}]

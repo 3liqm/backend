@@ -1,0 +1,176 @@
+[{
+  "_id": {
+    "$oid": "67010ef9cfd51f61d2638ad1"
+  },
+  "name": "white",
+  "images": [],
+  "description": "simple description you should clean",
+  "slug": "white",
+  "status": "publish",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "store": {
+    "$oid": "66fa7cb424b327d140924878"
+  },
+  "value": "",
+  "createdAt": {
+    "$date": "2024-10-05T10:03:37.904Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-05T10:03:37.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670119c6cfd51f61d2638af5"
+  },
+  "name": "black",
+  "images": [],
+  "description": "simple description you should clean",
+  "slug": "black",
+  "status": "publish",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "store": {
+    "$oid": "66fa7cb424b327d140924878"
+  },
+  "value": "",
+  "createdAt": {
+    "$date": "2024-10-05T10:49:42.179Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-05T10:49:42.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67014fb5cfd51f61d2638bef"
+  },
+  "name": "green",
+  "images": [],
+  "description": "simple description you should clean",
+  "slug": "green",
+  "status": "publish",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "store": {
+    "$oid": "66fa7cb424b327d140924878"
+  },
+  "value": "",
+  "createdAt": {
+    "$date": "2024-10-05T14:39:49.358Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-05T14:39:49.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67015b9dcfd51f61d2638c55"
+  },
+  "name": "blue",
+  "images": [],
+  "description": "simple description you should clean",
+  "slug": "blue",
+  "status": "publish",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "store": {
+    "$oid": "66fa7cb424b327d140924878"
+  },
+  "value": "",
+  "createdAt": {
+    "$date": "2024-10-05T15:30:37.328Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-05T15:30:37.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670fb66c92dd4b43d2f1b61e"
+  },
+  "name": "gray",
+  "images": [],
+  "description": "simple description you should clean",
+  "slug": "gray",
+  "status": "publish",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "value": "",
+  "createdAt": {
+    "$date": "2024-10-16T12:49:48.472Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T12:49:48.472Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67122149ecb79c111948d054"
+  },
+  "name": "yellow",
+  "images": [],
+  "description": "simple description you should clean",
+  "slug": "yellow",
+  "status": "publish",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "value": "",
+  "createdAt": {
+    "$date": "2024-10-18T08:50:17.939Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T08:50:17.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6712c9a362601a3c64dffcf7"
+  },
+  "name": "pink",
+  "images": [],
+  "description": "simple description you should clean",
+  "slug": "pink",
+  "status": "publish",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "value": "",
+  "createdAt": {
+    "$date": "2024-10-18T20:48:35.276Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T20:48:35.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6713734462601a3c64e0094f"
+  },
+  "name": "rose",
+  "images": [],
+  "description": "simple description you should clean",
+  "slug": "rose",
+  "status": "publish",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "value": "",
+  "createdAt": {
+    "$date": "2024-10-19T08:52:20.457Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T08:52:20.457Z"
+  },
+  "__v": 0
+}]

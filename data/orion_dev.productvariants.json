@@ -1,0 +1,759 @@
+[{
+  "_id": {
+    "$oid": "67102c507d7183e6532687e7"
+  },
+  "productId": {
+    "$oid": "670af3a56453251dc45da8d6"
+  },
+  "name": "white|digital-edition",
+  "color": {
+    "$oid": "67010ef9cfd51f61d2638ad1"
+  },
+  "colorImages": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1728770410/zx5dby42z9tcqeo3lvuy.png",
+      "_id": {
+        "$oid": "670af3a66453251dc45da8dc"
+      }
+    }
+  ],
+  "size": {
+    "$oid": "670af2666453251dc45da8d2"
+  },
+  "sizeImages": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729113093/x7dyjgpvl4zyqvkclcod.jpg",
+      "_id": {
+        "$oid": "67102c507d7183e6532687e9"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729113094/xitsba7kakc1hbi3reln.jpg",
+      "_id": {
+        "$oid": "67102c507d7183e6532687ea"
+      }
+    }
+  ],
+  "weight": 10,
+  "inventory": "instock",
+  "sku": "ZUEZ6ZC",
+  "price": 449.99,
+  "discount": 11,
+  "colorValue": "#ffffff",
+  "status": "publish",
+  "createdAt": {
+    "$date": "2024-10-16T21:12:48.316Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T21:12:48.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67102c507d7183e6532687f5"
+  },
+  "productId": {
+    "$oid": "670af3a56453251dc45da8d6"
+  },
+  "name": "white|standard-edition",
+  "color": {
+    "$oid": "67010ef9cfd51f61d2638ad1"
+  },
+  "colorImages": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1728770410/zx5dby42z9tcqeo3lvuy.png",
+      "_id": {
+        "$oid": "670af3a66453251dc45da8dc"
+      }
+    }
+  ],
+  "size": {
+    "$oid": "67102bb37d7183e6532687cc"
+  },
+  "sizeImages": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729112765/mk8dexhbbjibnnenuhlv.jpg",
+      "_id": {
+        "$oid": "67102c507d7183e6532687f7"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729112792/ijwwp72zsemf2wjahl9t.jpg",
+      "_id": {
+        "$oid": "67102c507d7183e6532687f8"
+      }
+    }
+  ],
+  "weight": 10,
+  "inventory": "instock",
+  "sku": "ZUEZ6ZC",
+  "price": 449.99,
+  "discount": 11,
+  "colorValue": "#ffffff",
+  "status": "publish",
+  "createdAt": {
+    "$date": "2024-10-16T21:12:48.373Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T21:12:48.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67105a857d7183e65326934d"
+  },
+  "productId": {
+    "$oid": "670fbe3692dd4b43d2f1b6c2"
+  },
+  "name": "gray|14-inch-liquid-retina-xdr-display",
+  "color": {
+    "$oid": "670fb66c92dd4b43d2f1b61e"
+  },
+  "colorImages": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729102878/ydqxvrhber9qprkqzgwr.jpg",
+      "_id": {
+        "$oid": "671004dc7d7183e65326814f"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729102877/jnqxysswuyvbel8lgujw.jpg",
+      "_id": {
+        "$oid": "671004dc7d7183e653268150"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729102555/ldalt7nhnwengtibuhv2.jpg",
+      "_id": {
+        "$oid": "671004dc7d7183e653268151"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729102556/nngpeulzlf8ls4ukcgvr.jpg",
+      "_id": {
+        "$oid": "671004dc7d7183e653268152"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729102556/knucsqm6sxclzz3svidk.jpg",
+      "_id": {
+        "$oid": "671004dc7d7183e653268153"
+      }
+    }
+  ],
+  "size": {
+    "$oid": "670fb96792dd4b43d2f1b650"
+  },
+  "sizeImages": [],
+  "weight": 4,
+  "inventory": "instock",
+  "sku": "A264671",
+  "price": 1999.99,
+  "discount": 21,
+  "colorValue": "#a2a0a0",
+  "status": "publish",
+  "createdAt": {
+    "$date": "2024-10-17T00:29:57.610Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T00:29:57.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6710df567d7183e65326a168"
+  },
+  "productId": {
+    "$oid": "670b25afb6f1823b13fe72c7"
+  },
+  "name": "black",
+  "color": {
+    "$oid": "670119c6cfd51f61d2638af5"
+  },
+  "colorImages": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729152477/daep9ioljqsvpoyx7kku.jpg",
+      "_id": {
+        "$oid": "6710df567d7183e65326a169"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729152477/hy4nulgjvx5zyyo7esgn.jpg",
+      "_id": {
+        "$oid": "6710df567d7183e65326a16a"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729152428/uqrbh2xj7vlgxwbmvyjb.jpg",
+      "_id": {
+        "$oid": "6710df567d7183e65326a16b"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729152428/igdjrbmbe934pqczehf0.jpg",
+      "_id": {
+        "$oid": "6710df567d7183e65326a16c"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729152408/i3gerpmvubefobohb7cp.jpg",
+      "_id": {
+        "$oid": "6710df567d7183e65326a16d"
+      }
+    }
+  ],
+  "weight": 12,
+  "inventory": "instock",
+  "sku": "RTR5089",
+  "price": 455,
+  "discount": 0,
+  "colorValue": "",
+  "status": "publish",
+  "sizeImages": [],
+  "createdAt": {
+    "$date": "2024-10-17T09:56:38.130Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-17T09:56:38.130Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6712c06d62601a3c64dffbe0"
+  },
+  "productId": {
+    "$oid": "67122289ecb79c111948d06a"
+  },
+  "name": "blue|128-go",
+  "color": {
+    "$oid": "67015b9dcfd51f61d2638c55"
+  },
+  "colorImages": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729241327/c8yx1azy5b4lmtiyq6ko.jpg",
+      "_id": {
+        "$oid": "6712228becb79c111948d074"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729241327/yjqjjpf8ikouisdcsb3v.jpg",
+      "_id": {
+        "$oid": "6712228becb79c111948d075"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729241327/yiokz1bzxwmfhcjc9mam.jpg",
+      "_id": {
+        "$oid": "6712228becb79c111948d076"
+      }
+    }
+  ],
+  "size": {
+    "$oid": "6712217becb79c111948d059"
+  },
+  "sizeImages": [],
+  "weight": 2,
+  "inventory": "instock",
+  "sku": "RTR5089",
+  "price": 799,
+  "discount": 20,
+  "colorValue": "",
+  "status": "publish",
+  "createdAt": {
+    "$date": "2024-10-18T20:09:17.052Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T20:09:17.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6712c06d62601a3c64dffbec"
+  },
+  "productId": {
+    "$oid": "67122289ecb79c111948d06a"
+  },
+  "name": "blue|256-go",
+  "color": {
+    "$oid": "67015b9dcfd51f61d2638c55"
+  },
+  "colorImages": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729241327/c8yx1azy5b4lmtiyq6ko.jpg",
+      "_id": {
+        "$oid": "6712228becb79c111948d074"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729241327/yjqjjpf8ikouisdcsb3v.jpg",
+      "_id": {
+        "$oid": "6712228becb79c111948d075"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729241327/yiokz1bzxwmfhcjc9mam.jpg",
+      "_id": {
+        "$oid": "6712228becb79c111948d076"
+      }
+    }
+  ],
+  "size": {
+    "$oid": "6712218eecb79c111948d05f"
+  },
+  "sizeImages": [],
+  "weight": 2,
+  "inventory": "instock",
+  "sku": "RTR5089",
+  "price": 799,
+  "discount": 20,
+  "colorValue": "",
+  "status": "publish",
+  "createdAt": {
+    "$date": "2024-10-18T20:09:17.077Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T20:09:17.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6712c06d62601a3c64dffbf8"
+  },
+  "productId": {
+    "$oid": "67122289ecb79c111948d06a"
+  },
+  "name": "yellow|128-go",
+  "color": {
+    "$oid": "67122149ecb79c111948d054"
+  },
+  "colorImages": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729241327/olubswr6afbapxgt6mgq.jpg",
+      "_id": {
+        "$oid": "6712228becb79c111948d08c"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729241327/zkvbygski3rl8z5xi0f4.jpg",
+      "_id": {
+        "$oid": "6712228becb79c111948d08d"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729241327/w2ee3c3tx1hbt030k2jy.jpg",
+      "_id": {
+        "$oid": "6712228becb79c111948d08e"
+      }
+    }
+  ],
+  "size": {
+    "$oid": "6712217becb79c111948d059"
+  },
+  "sizeImages": [],
+  "weight": 2,
+  "inventory": "instock",
+  "sku": "RTR5089",
+  "price": 799,
+  "discount": 20,
+  "colorValue": "",
+  "status": "publish",
+  "createdAt": {
+    "$date": "2024-10-18T20:09:17.096Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T20:09:17.096Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6712c06d62601a3c64dffc04"
+  },
+  "productId": {
+    "$oid": "67122289ecb79c111948d06a"
+  },
+  "name": "yellow|256-go",
+  "color": {
+    "$oid": "67122149ecb79c111948d054"
+  },
+  "colorImages": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729241327/olubswr6afbapxgt6mgq.jpg",
+      "_id": {
+        "$oid": "6712228becb79c111948d08c"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729241327/zkvbygski3rl8z5xi0f4.jpg",
+      "_id": {
+        "$oid": "6712228becb79c111948d08d"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729241327/w2ee3c3tx1hbt030k2jy.jpg",
+      "_id": {
+        "$oid": "6712228becb79c111948d08e"
+      }
+    }
+  ],
+  "size": {
+    "$oid": "6712218eecb79c111948d05f"
+  },
+  "sizeImages": [],
+  "weight": 2,
+  "inventory": "instock",
+  "sku": "RTR5089",
+  "price": 799,
+  "discount": 20,
+  "colorValue": "",
+  "status": "publish",
+  "createdAt": {
+    "$date": "2024-10-18T20:09:17.110Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T20:09:17.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6712dcef62601a3c64dfff50"
+  },
+  "productId": {
+    "$oid": "6712cb4462601a3c64dffcff"
+  },
+  "name": "black",
+  "color": {
+    "$oid": "670119c6cfd51f61d2638af5"
+  },
+  "colorImages": [],
+  "weight": 3,
+  "inventory": "instock",
+  "sku": "JSH638HS",
+  "price": 189.99,
+  "discount": 0,
+  "colorValue": "#000000",
+  "status": "publish",
+  "sizeImages": [],
+  "createdAt": {
+    "$date": "2024-10-18T22:10:55.364Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T22:10:55.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6712dcef62601a3c64dfff57"
+  },
+  "productId": {
+    "$oid": "6712cb4462601a3c64dffcff"
+  },
+  "name": "white",
+  "color": {
+    "$oid": "67010ef9cfd51f61d2638ad1"
+  },
+  "colorImages": [],
+  "weight": 3,
+  "inventory": "instock",
+  "sku": "JSH638HS",
+  "price": 189.99,
+  "discount": 0,
+  "colorValue": "#ffffff",
+  "status": "publish",
+  "sizeImages": [],
+  "createdAt": {
+    "$date": "2024-10-18T22:10:55.414Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T22:10:55.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6712dcef62601a3c64dfff5e"
+  },
+  "productId": {
+    "$oid": "6712cb4462601a3c64dffcff"
+  },
+  "name": "pink",
+  "color": {
+    "$oid": "6712c9a362601a3c64dffcf7"
+  },
+  "colorImages": [],
+  "weight": 3,
+  "inventory": "instock",
+  "sku": "JSH638HS",
+  "price": 189.99,
+  "discount": 0,
+  "colorValue": "#ff0080",
+  "status": "publish",
+  "sizeImages": [],
+  "createdAt": {
+    "$date": "2024-10-18T22:10:55.424Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T22:10:55.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671385c162601a3c64e00bdc"
+  },
+  "productId": {
+    "$oid": "671373c262601a3c64e00952"
+  },
+  "name": "rose",
+  "color": {
+    "$oid": "6713734462601a3c64e0094f"
+  },
+  "colorImages": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729327773/fyqacam6bbpqk5ufkbqd.jpg",
+      "_id": {
+        "$oid": "671373c662601a3c64e0095c"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729327775/vkkcttxhjp8joconu4cf.jpg",
+      "_id": {
+        "$oid": "671373c662601a3c64e0095d"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729327774/r1rjyuparuelc4y4n2oi.jpg",
+      "_id": {
+        "$oid": "671373c662601a3c64e0095e"
+      }
+    }
+  ],
+  "weight": 5,
+  "inventory": "instock",
+  "sku": "RY657M",
+  "price": 1099,
+  "discount": 29,
+  "colorValue": "",
+  "status": "publish",
+  "sizeImages": [],
+  "createdAt": {
+    "$date": "2024-10-19T10:11:13.907Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T10:11:13.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671385c262601a3c64e00be8"
+  },
+  "productId": {
+    "$oid": "671373c262601a3c64e00952"
+  },
+  "name": "gray",
+  "color": {
+    "$oid": "670fb66c92dd4b43d2f1b61e"
+  },
+  "colorImages": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729327757/tsosnho9ss8mjgyaebez.jpg",
+      "_id": {
+        "$oid": "671373c662601a3c64e00968"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729327774/qayjpkrpdcffspfglfro.jpg",
+      "_id": {
+        "$oid": "671373c662601a3c64e00969"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729327774/zn0tnzd04i5k8ww9kfsg.jpg",
+      "_id": {
+        "$oid": "671373c662601a3c64e0096a"
+      }
+    }
+  ],
+  "weight": 5,
+  "inventory": "instock",
+  "sku": "RY657M",
+  "price": 1099,
+  "discount": 29,
+  "colorValue": "",
+  "status": "publish",
+  "sizeImages": [],
+  "createdAt": {
+    "$date": "2024-10-19T10:11:14.086Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T10:11:14.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6713a9ba62601a3c64e01142"
+  },
+  "productId": {
+    "$oid": "6713a92b62601a3c64e010fd"
+  },
+  "name": "white",
+  "color": {
+    "$oid": "67010ef9cfd51f61d2638ad1"
+  },
+  "colorImages": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729341512/srzoymxmalmnaqbzjasz.jpg",
+      "_id": {
+        "$oid": "6713a92e62601a3c64e01103"
+      }
+    }
+  ],
+  "weight": 2,
+  "inventory": "instock",
+  "sku": "UZIEYZ67",
+  "price": 30.99,
+  "discount": 0,
+  "colorValue": "",
+  "status": "publish",
+  "sizeImages": [],
+  "createdAt": {
+    "$date": "2024-10-19T12:44:42.529Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T12:44:42.529Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6713a9ba62601a3c64e01148"
+  },
+  "productId": {
+    "$oid": "6713a92b62601a3c64e010fd"
+  },
+  "name": "black",
+  "color": {
+    "$oid": "670119c6cfd51f61d2638af5"
+  },
+  "colorImages": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729341512/rndkrtzihbsyw5brrmun.jpg",
+      "_id": {
+        "$oid": "6713a92e62601a3c64e01109"
+      }
+    }
+  ],
+  "weight": 2,
+  "inventory": "instock",
+  "sku": "UZIEYZ67",
+  "price": 30.99,
+  "discount": 0,
+  "colorValue": "",
+  "status": "publish",
+  "sizeImages": [],
+  "createdAt": {
+    "$date": "2024-10-19T12:44:42.598Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T12:44:42.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671541db516db008fce5e486"
+  },
+  "productId": {
+    "$oid": "670bf25e4e86f23b1776929d"
+  },
+  "name": "black",
+  "color": {
+    "$oid": "670119c6cfd51f61d2638af5"
+  },
+  "colorImages": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729280054/d7vkihmecj91bbguoadh.jpg",
+      "_id": {
+        "$oid": "671541db516db008fce5e487"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729280058/bwl0ysmapohw7l3noeyf.jpg",
+      "_id": {
+        "$oid": "671541db516db008fce5e488"
+      }
+    }
+  ],
+  "weight": 3,
+  "inventory": "instock",
+  "sku": "EDFDRL",
+  "price": 200,
+  "discount": 0,
+  "colorValue": "",
+  "status": "publish",
+  "sizeImages": [],
+  "createdAt": {
+    "$date": "2024-10-20T17:46:03.384Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-20T17:46:03.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67163a33516db008fce5eefa"
+  },
+  "productId": {
+    "$oid": "6712be1262601a3c64dffa73"
+  },
+  "name": "black",
+  "color": {
+    "$oid": "670119c6cfd51f61d2638af5"
+  },
+  "colorImages": [
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729281150/q3wcson9eutxko7alk8g.jpg",
+      "_id": {
+        "$oid": "67163a33516db008fce5eefb"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729281160/laehzbvjjc8d7u1zpiew.jpg",
+      "_id": {
+        "$oid": "67163a33516db008fce5eefc"
+      }
+    },
+    {
+      "url": "https://res.cloudinary.com/didbxg1f9/image/upload/v1729281161/hk6is3m5vcnctfda6ipf.jpg",
+      "_id": {
+        "$oid": "67163a33516db008fce5eefd"
+      }
+    }
+  ],
+  "weight": 2,
+  "inventory": "instock",
+  "sku": "FHTR546",
+  "price": 215,
+  "discount": 25,
+  "colorValue": "",
+  "status": "publish",
+  "sizeImages": [],
+  "createdAt": {
+    "$date": "2024-10-21T11:25:39.815Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-21T11:25:39.815Z"
+  },
+  "__v": 0
+}]

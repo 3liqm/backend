@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "670af2666453251dc45da8d2"
+  },
+  "name": "digital edition",
+  "images": [],
+  "description": "simple description you should clean",
+  "slug": "digital-edition",
+  "status": "publish",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "value": "",
+  "createdAt": {
+    "$date": "2024-10-12T22:04:22.850Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-12T22:04:22.850Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670fb6cb92dd4b43d2f1b637"
+  },
+  "name": "xl",
+  "images": [],
+  "description": "simple description you should clean",
+  "slug": "xl",
+  "status": "publish",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "value": "",
+  "createdAt": {
+    "$date": "2024-10-16T12:51:23.649Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T12:51:23.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670fb96792dd4b43d2f1b650"
+  },
+  "name": "14 inch liquid retina xdr display",
+  "images": [],
+  "description": "simple description you should clean",
+  "slug": "14-inch-liquid-retina-xdr-display",
+  "status": "publish",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "value": "",
+  "createdAt": {
+    "$date": "2024-10-16T13:02:31.935Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T13:02:31.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67102bb37d7183e6532687cc"
+  },
+  "name": "standard edition",
+  "images": [],
+  "description": "simple description you should clean",
+  "slug": "standard-edition",
+  "status": "publish",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "value": "",
+  "createdAt": {
+    "$date": "2024-10-16T21:10:11.480Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T21:10:11.480Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6712217becb79c111948d059"
+  },
+  "name": "128 go",
+  "images": [],
+  "description": "simple description you should clean",
+  "slug": "128-go",
+  "status": "publish",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "value": "",
+  "createdAt": {
+    "$date": "2024-10-18T08:51:07.096Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T08:51:07.096Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6712218eecb79c111948d05f"
+  },
+  "name": "256 go",
+  "images": [],
+  "description": "simple description you should clean",
+  "slug": "256-go",
+  "status": "publish",
+  "user_id": "user_2mA8DYwV4L4OkvUiktcuyoEoUBf",
+  "store": {
+    "$oid": "67050638191244932cd3d0f6"
+  },
+  "value": "",
+  "createdAt": {
+    "$date": "2024-10-18T08:51:26.772Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-18T08:51:26.772Z"
+  },
+  "__v": 0
+}]
